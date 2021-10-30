@@ -28,85 +28,85 @@
     "Send": "Skicka",
     "Clone": "Klona",
     "Raw text": "Vanlig text",
-    "Expires": "Löper ut",
-    "Burn after reading": "Läs en gång",
+    "Expires": "Giltig",
+    "Burn after reading": "Engångsvisning",
     "Open discussion": "Öppen discussion",
-    "Password (recommended)": "Lösenord (rekommenderas)",
+    "Password (recommended)": "Lösenord (valfritt)",
     "Discussion": "Diskussion",
     "Toggle navigation": "Växla navigering",
     "%d seconds": [
-        "%d sekund (singular)",
-        "%d secunder (1st plural)",
-        "%d sekunder (2nd plural)",
-        "%d sekunder (3rd plural)"
+        "%d sekund",
+        "%d secunder",
+        "%d sekunder",
+        "%d sekunder"
     ],
     "%d minutes": [
-        "%d minut (singular)",
-        "%d minuter (1st plural)",
-        "%d minuter (2nd plural)",
-        "%d minuter (3rd plural)"
+        "%d minut",
+        "%d minuter",
+        "%d minuter",
+        "%d minuter"
     ],
     "%d hours": [
-        "%d timme (singular)",
-        "%d timmar (1st plural)",
-        "%d timmar (2nd plural)",
-        "%d timmar (3rd plural)"
+        "%d timme",
+        "%d timmar",
+        "%d timmar",
+        "%d timmar"
     ],
     "%d days": [
-        "%d dag (singular)",
-        "%d dagar (1st plural)",
-        "%d dagar (2nd plural)",
-        "%d dagar (3rd plural)"
+        "%d dag",
+        "%d dagar",
+        "%d dagar",
+        "%d dagar"
     ],
     "%d weeks": [
-        "%d vecka (singular)",
-        "%d veckor (1st plural)",
-        "%d veckor (2nd plural)",
-        "%d veckor (3rd plural)"
+        "%d vecka",
+        "%d veckor",
+        "%d veckor",
+        "%d veckor"
     ],
     "%d months": [
-        "%d månad (singular)",
-        "%d månader (1st plural)",
-        "%d månader (2nd plural)",
-        "%d månader (3rd plural)"
+        "%d månad",
+        "%d månader",
+        "%d månader",
+        "%d månader"
     ],
     "%d years": [
-        "%d år (singular)",
-        "%d år (1st plural)",
-        "%d år (2nd plural)",
-        "%d år (3rd plural)"
+        "%d år",
+        "%d år",
+        "%d år",
+        "%d år"
     ],
     "Never": "Aldrig",
     "Note: This is a test service: Data may be deleted anytime. Kittens will die if you abuse this service.": "Obs: Det här är en testtjänst. Data kan när som helst raderas. En kattunge dör varje gång du missbrukar tjänsten.",
     "This document will expire in %d seconds.": [
-        "Det här dokumentet löper ut om %d sekund. (singular)",
-        "Det här dokumentet löper ut om %d sekunder. (1st plural)",
-        "Det här dokumentet löper ut om %d sekunder. (2nd plural)",
-        "Det här dokumentet löper ut om %d sekunder. (3rd plural)"
+        "Det här dokumentet löper ut om %d sekund.",
+        "Det här dokumentet löper ut om %d sekunder.",
+        "Det här dokumentet löper ut om %d sekunder.",
+        "Det här dokumentet löper ut om %d sekunder."
     ],
     "This document will expire in %d minutes.": [
-        "Det här dokumentet löper ut om %d minut. (singular)",
-        "Det här dokumentet löper ut om %d minuter. (1st plural)",
-        "Det här dokumentet löper ut om %d minuter. (2nd plural)",
-        "Det här dokumentet löper ut om %d minuter. (3rd plural)"
+        "Det här dokumentet löper ut om %d minut.",
+        "Det här dokumentet löper ut om %d minuter.",
+        "Det här dokumentet löper ut om %d minuter.",
+        "Det här dokumentet löper ut om %d minuter."
     ],
     "This document will expire in %d hours.": [
-        "Det här dokumentet löper ut om %d timme. (singular)",
-        "Det här dokumentet löper ut om %d timmar. (1st plural)",
-        "Det här dokumentet löper ut om %d timmar. (2nd plural)",
-        "Det här dokumentet löper ut om %d timmar. (3rd plural)"
+        "Det här dokumentet löper ut om %d timme.",
+        "Det här dokumentet löper ut om %d timmar.",
+        "Det här dokumentet löper ut om %d timmar.",
+        "Det här dokumentet löper ut om %d timmar."
     ],
     "This document will expire in %d days.": [
-        "Det här dokumentet löper ut om %d dag. (singular)",
-        "Det här dokumentet löper ut om %d dagar. (1st plural)",
-        "Det här dokumentet löper ut om %d dagar. (2nd plural)",
-        "Det här dokumentet löper ut om %d dagar. (3rd plural)"
+        "Det här dokumentet löper ut om %d dag.",
+        "Det här dokumentet löper ut om %d dagar.",
+        "Det här dokumentet löper ut om %d dagar.",
+        "Det här dokumentet löper ut om %d dagar."
     ],
     "This document will expire in %d months.": [
-        "Det här dokumentet löper ut om %d månad. (singular)",
-        "Det här dokumentet löper ut om %d månader. (1st plural)",
-        "Det här dokumentet löper ut om %d månader. (2nd plural)",
-        "Det här dokumentet löper ut om %d månader. (3rd plural)"
+        "Det här dokumentet löper ut om %d månad.",
+        "Det här dokumentet löper ut om %d månader.",
+        "Det här dokumentet löper ut om %d månader.",
+        "Det här dokumentet löper ut om %d månader."
     ],
     "Please enter the password for this paste:": "Ange lösenordet:",
     "Could not decrypt data (Wrong key?)": "Kunde inte dekryptera data (fel nyckel?)",
@@ -140,7 +140,7 @@
     "ZiB": "ZiB",
     "YiB": "YiB",
     "Format": "Format",
-    "Plain Text": "Enkel Text",
+    "Plain Text": "Endast Text",
     "Source Code": "Källkod",
     "Markdown": "Markdown",
     "Download attachment": "Ladda ner bilaga",
@@ -154,7 +154,7 @@
     "Invalid attachment.": "Ogiltig bilaga.",
     "Options": "Alternativ",
     "Shorten URL": "Förkorta URL",
-    "Editor": "Editor",
+    "Editor": "Redigera",
     "Preview": "Förhandsgranska",
     "%s requires the PATH to end in a \"%s\". Please update the PATH in your index.php.": "%s kräver att PATH slutar med \"%s\". Vänligen uppdatera PATH i index.php.",
     "Decrypt": "Dekryptera",
