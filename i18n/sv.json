@@ -165,7 +165,7 @@
     "In case this message never disappears please have a look at <a href=\"%s\">this FAQ for information to troubleshoot</a>.": "Om det här meddelandet inte försvinner, vänligen gå till <a href=\"%s\">den här FAQ-sidan för information om felsökning</a>.",
     "+++ no paste text +++": "+++ ingen paste-text +++",
     "Could not get paste data: %s": "Kunde inte hämta paste-data: %s",
-    "QR code": "QR-kode",
+    "QR code": "QR-kod",
     "This website is using an insecure HTTP connection! Please use it only for testing.": "Den här webbsidan använder osäker HTTP-anslutning! Använd den bara för test.",
     "For more information <a href=\"%s\">see this FAQ entry</a>.": "För mer information <a href=\"%s\">öppna den här FAQ-sidan</a>.",
     "Your browser may require an HTTPS connection to support the WebCrypto API. Try <a href=\"%s\">switching to HTTPS</a>.": "Din webbläsare kräver eventuellt en HTTPS-anslutning för att stöda WebCrypto API. Försök <a href=\"%s\">växla till HTTPS</a>.",
