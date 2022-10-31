@@ -2,7 +2,7 @@
     "PrivateBin": "PrivateBin",
     "%s is a minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted %sin the browser%s using 256 bits AES.": "%s är en enkel pastebin baserad på öppen källkod, där servern helt saknar kännedom om inklistrad data. Data krypteras och dekrypteras %si webbläsaren%s med 256 bit AES.",
         "More information on the <a href=\"https://privatebin.info/\">project page</a>.": "Läs mer på <a href=\"https://privatebin.info/\">projektets webbsida</a>.",
-    "Because ignorance is bliss": "Det man inte vet har man inte ont av",
+    "Because ignorance is bliss": "Lyckligt ovetande",
     "en": "sv",
     "Paste does not exist, has expired or has been deleted.": "Paste existerar inte, har löpt ut eller raderats",
     "%s requires php %s or above to work. Sorry.": "%s kräver php %s eller högre för att fungera.",
